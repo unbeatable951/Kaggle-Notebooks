@@ -133,8 +133,8 @@ This is a living repository! If you find a bug, want to optimize a model, or wan
 
 If you have any questions or just want to connect, feel free to reach out!
 
-- **Kaggle Profile:** [Your Kaggle Username](https://www.kaggle.com/latecoders)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/diksha-singh-9a384628a/)
+- **Kaggle Profile:** [LateCoders](https://www.kaggle.com/latecoders)
+- **LinkedIn:** [Diksha Singh](https://www.linkedin.com/in/diksha-singh-9a384628a/)
 
 ***
 *Happy Coding & Happy Predicting! 📈🤖*
